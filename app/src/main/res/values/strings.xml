@@ -4,4 +4,8 @@
     <string name="answer">Answer</string>
     <string name="enter_number_1">Enter Number 1</string>
     <string name="enter_number_2">Enter Number 2</string>
+    <string name="results">results</string>
+    <string name="adds">adds</string>
+    <string name="enter_num1">Enter num1</string>
+    <string name="enter_number2">Enter Number2</string>
 </resources>
