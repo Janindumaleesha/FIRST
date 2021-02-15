@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               int sum = Integer.parseInt(numOne.getText().toString()) +  Integer.parseInt(numTwo.getText().toString());
+               int sum = Integer.parseInt(numOne.getText().toString()) -  Integer.parseInt(numTwo.getText().toString());
                 reuslts.setText("results is "+sum);
             }
         });
